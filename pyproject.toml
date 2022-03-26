@@ -7,6 +7,9 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.10"
+jupyterlab = "^3.3.2"
+jupyterlab-code-formatter = "^1.4.10"
+panel = "^0.12.6"
 
 [tool.poetry.dev-dependencies]
 
